@@ -5,8 +5,7 @@ import { FaRunning } from "react-icons/fa";
 import { AiFillFire } from "react-icons/ai";
 import { RiHeartPulseLine } from "react-icons/ri";
 import JoinNow from "./JoinNow";
-import ProgramsExtraBG from "./ProgramsExtraBG";
-import Form from "./Form";
+
 import { motion as m } from "framer-motion";
 const ProgramData = [
   {

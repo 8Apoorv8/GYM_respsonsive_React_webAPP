@@ -2,7 +2,7 @@ import React from "react";
 import { BsHeartFill } from "react-icons/bs";
 import BackImg from "../Assets/GymHomepage.jpg";
 import { motion as m } from "framer-motion";
-import Form from "./Form";
+
 
 const Hero = () => {
   return (
